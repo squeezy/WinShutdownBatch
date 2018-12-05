@@ -1,2 +1,2 @@
 # WinShutdownBatch
-Windows - shut down batch script
+Windows - shutdown batch script
